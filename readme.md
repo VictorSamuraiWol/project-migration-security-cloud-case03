@@ -1,4 +1,7 @@
-<img src="src/img/aws-security.png" alt="image aws security" width="800">
+<p align="center">
+    <img 
+        src="src/img/aws-security.png" alt="image aws security" width="300">
+</p>
 
 # Segurança Máxima na AWS: As Ferramentas Essenciais para Proteger Seus Dados na Nuvem
 
