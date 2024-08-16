@@ -1,3 +1,5 @@
+<img src="src/img/aws-security.png" alt="image aws security" width="800">
+
 # Segurança Máxima na AWS: As Ferramentas Essenciais para Proteger Seus Dados na Nuvem
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante os meus estudos do curso Extensão em Cloud na plataforma da [PROZ](https://talentocloud.joyclass.com/)
